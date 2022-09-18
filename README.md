@@ -8,4 +8,5 @@ A web based application that helps you keep track of your budget and expenses.
 * Javascript
 * Netlify
 
-# Live Link:https://budgetry-expense-tracker.netlify.app/
+# Live Link
+https://budgetry-expense-tracker.netlify.app/
